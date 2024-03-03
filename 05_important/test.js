@@ -81,15 +81,15 @@
 
 // first class fn in js is a concept where you can use function as a value
 
-var b=function c(){
-    console.log("c");
+// var b=function c(){
+//     console.log("c");
 
-}
-b()
+// }
+// b()
 
-function fn(a){
-    a();
-}
+// function fn(a){
+//     a();
+// }
 
-fn(function f(){console.log("First class fn")});
+// fn(function f(){console.log("First class fn")});
 
